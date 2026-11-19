@@ -237,6 +237,14 @@ If this guide helped you get started, signing up through
 [my link](https://make.fun/r/b9gbfsac) (code `b9gbfsac`) is a good way to say
 thanks — and it costs you nothing extra.
 
+One thing worth knowing about referral links in general: a referral binds to
+the first link a visitor's browser saw, and that first touch wins for 60
+days, so a later link does not replace it. And only real signups count —
+make.fun's referral check verifies each one, and accounts that are the
+referrer's own, share its network, or never take part do not count. So the
+way to earn from a referral link is to share a guide people genuinely use,
+not to chase signups that go nowhere.
+
 ## Common questions
 
 **Does it cost anything to enter?**
